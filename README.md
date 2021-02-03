@@ -6,3 +6,5 @@
 - 📫 How to reach me: [Twitter - @MOTI0N_](https://twitter.com/MOTI0N_)
 - ⚡ Fun fact: I'm a sports freak.
 
+
+https://github-readme-stats.vercel.app/api?username=iDraciel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=D01110
